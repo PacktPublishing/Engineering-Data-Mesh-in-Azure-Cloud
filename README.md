@@ -27,10 +27,10 @@ The GitHub repository functions as a valuable resource for future reference, ena
 The code will look like the following:
 ```
 1# Grant access to individual user at a Subscription Level
-2 function GrantAccessAtSubscription ($userID, $roleDef, $subScope) {
-3 New-AzRoleAssignment -SignInName $userID `
-4 -RoleDefinitionName $roleDef `
-5 -Scope $subScope
+2  function GrantAccessAtSubscription ($userID, $roleDef, $subScope) {
+3      New-AzRoleAssignment -SignInName $userID `
+4      -RoleDefinitionName $roleDef `
+5      -Scope $subScope
 6}
 ```
 
