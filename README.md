@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Design and implement a secure data mesh architecture
 * Resolve practical challenges related to data mesh adoption
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Engineering-Data-Mesh-Azure-Cloud-ebook/dp/B0CW18M6WC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UK0XzF1gjloZtqkk7IuAxnC16YkPKto2GrTcbX8Vm0JG38M9rRnSjurZ5jOrpuzPX0KkzmIAcw9gMW0C2G-Rvq8lDXbwDywjbcaQGj0ZSIDDTmqu6kjuguqJ7giid9ye.7gl8SkWfyv0U-GImv4m8vRJa0MNvxUtCWn8YaR4PPAg&dib_tag=se&keywords=Engineering+Data+Mesh+in+Azure+Cloud&qid=1710316579&sr=8-1) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Engineering-Data-Mesh-Azure-Cloud/dp/1805120786/ref=sr_1_2_sspa?crid=31YCGC8LTJBI8&dib=eyJ2IjoiMSJ9.lK57nbIEUirfe3MovGugR8nMDNzX2CtMPlKdjj_ZA9-TNFq4N3RbJuwzJ1dHUPGBHVVu2S-cPqPEI2AX066hOICGbu_WDxdXn7EMfD3G8NF3lNYwGDEDi0hRAvc7GAxSMeB1xzFuMedFAxtDu5Ks29yIh4mqCN6P3KjFIxgHgyg1R8-lfprFRrifWiCxLxgruQC0avu5VtGQNz2_8B0nxS5dRZlOTBWwC4pgooIt3wU.KqR2P8ygbgKn-I4gtYUn1Q0FMfHJ9tXtr_QGL6hxX-o&dib_tag=se&keywords=engineering+data+mesh+in+azure+cloud&qid=1713405145&sprefix=engineering+data+mes%2Caps%2C334&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) today!
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
